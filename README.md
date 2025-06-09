@@ -40,6 +40,6 @@ pip install -r requirements.txt
 
 ## 3. Launch the App
 
-streamlit run app.py
+[streamlit run app.py](https://ai-driven-groundwater-system-jnnv7egpwpsipjszkepkmo.streamlit.app)
 
 ---------------------------
